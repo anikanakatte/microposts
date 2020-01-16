@@ -12,11 +12,15 @@ Use webpack to build the application
 $ npm run build
 ```
 
-Start the json-server application which contains all the post data
+### Starting backend server
+
+Start the json-server application which contains all the posts data
 
 ```
 $ npm run json:server
 ```
+
+### Serve the application
 
 Run webpack-dev-server to serve the application
 
